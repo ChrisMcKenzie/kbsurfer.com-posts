@@ -13,9 +13,9 @@ I hade to make a few changes to allow it to automatically reload its locally cac
 
   * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
   * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-<!--more-->
-<hr/>
 
+<hr/>
+<!--more-->
 I love these two frameworks and use them as the starting point for almost every project I do! I also used few really cool nodejs libraries:
 
   * [Poet](http://jsantell.github.io/poet/)
