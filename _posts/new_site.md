@@ -13,7 +13,6 @@ I hade to make a few changes to allow it to automatically reload its locally cac
 
   * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
   * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-  * This Other Thing!
 <!--more-->
 <hr/>
 
